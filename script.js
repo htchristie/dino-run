@@ -1,5 +1,3 @@
-const GAME_WIDTH = 100;
-const GAME_HEIGHT = 30;
 const SPEED_SCALE = 0.00001;
 
 const game = document.querySelector("#game");
